@@ -1,11 +1,13 @@
- {
+# Dashboard author Steven Lane
+
+
+{
   "metadata": {
     "configurationVersions": [
       7
-    ],
-    "clusterVersion": "1.270.92.20230710-145414"
+    ]
+    
   },
-  "id": "89e1a354-26a3-409e-8ccb-8a01f4f09c98",
   "dashboardMetadata": {
     "name": "Application APDEX Overview",
     "shared": true,
