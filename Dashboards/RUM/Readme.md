@@ -1,1 +1,1 @@
-A repo for RUM's related Dashboards in Dynatrace
+A repo for RUM's Dashboards created by Product Specialists in Dynatrace
